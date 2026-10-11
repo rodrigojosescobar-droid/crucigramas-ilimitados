@@ -1,0 +1,11 @@
+PRUEBA RÁPIDA — CRUCIGRAMAS ILIMITADOS
+
+1) Instalar Flutter y Android Studio en una computadora.
+2) Descomprimir el proyecto.
+3) Abrir terminal dentro de la carpeta del proyecto.
+4) Ejecutar: flutter pub get
+5) Conectar un teléfono Android con depuración USB activada.
+6) Ejecutar: flutter run
+7) Probar niveles, seleccionar pistas, responder y reiniciar.
+
+Este proyecto es un MVP de desarrollo. Todavía no es un APK compilado y no cobra suscripciones ni muestra anuncios reales. Para Google Play, generar un AAB firmado y completar los pasos de monetización y revisión.
